@@ -1,0 +1,5 @@
+<pof-config>
+   <user-type-list>
+      <include>coherence-pof-config.xml</include>
+   </user-type-list>
+</pof-config>
